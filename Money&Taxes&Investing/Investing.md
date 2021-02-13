@@ -12,6 +12,8 @@
 
 ## II. Mutual Funds
 A mutual fund is a company that pools money from many investors and invests the money in securities such as stocks, bonds, and short-term debt. The combined holdings of the mutual fund are known as its portfolio. Investors buy shares in mutual funds. Each share represents an investor’s part ownership in the fund and the income it generates.
+- Mutual Funds are actively managed;
+
 
 ### Links: 
 - https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-1
@@ -24,6 +26,17 @@ A mutual fund is a company that pools money from many investors and invests the 
 2) Fact sheet
 3) Letter
 
-## III. ETFs
+### Types of Fees
+
+## III. ETFs (Exchange-Traded Funds)
+
+### SPDR ETFs - Standard & Poor's Depositary Receipt
+
 ## IV. Index Funds
+
+Examples to Take a Look at:
+- 
+- 
+- 
+
 ## V. Bonds
