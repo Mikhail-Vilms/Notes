@@ -9,7 +9,8 @@
 
 ## I. Individual Stocks
 
-
+### Indicators:
+- NAV(Net Asset Value):
 ## II. Mutual Funds
 A mutual fund is a company that pools money from many investors and invests the money in securities such as stocks, bonds, and short-term debt. The combined holdings of the mutual fund are known as its portfolio. Investors buy shares in mutual funds. Each share represents an investor’s part ownership in the fund and the income it generates.
 - Mutual Funds are actively managed;
@@ -29,8 +30,12 @@ A mutual fund is a company that pools money from many investors and invests the 
 ### Types of Fees
 
 ## III. ETFs (Exchange-Traded Funds)
+Like mutual funds, ETFs offer investors a way to pool their money in a fund that makes investments in stocks, bonds, or other assets and, in return, to receive an interest in that investment pool.  Unlike mutual funds, however, ETF shares are traded on a national stock exchange and at market prices that may or may not be the same as the net asset value (“NAV”) of the shares, that is, the value of the ETF’s assets minus its liabilities divided by the number of shares outstanding.
 
-### SPDR ETFs - Standard & Poor's Depositary Receipt
+### Links
+- investor.gov
+  - [ETFs](https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-2)
+  - [Investor Bulletin: ETFs](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-24)
 
 ## IV. Index Funds
 
