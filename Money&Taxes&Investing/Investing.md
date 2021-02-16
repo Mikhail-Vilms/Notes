@@ -33,6 +33,7 @@ A mutual fund is a company that pools money from many investors and invests the 
 Like mutual funds, ETFs offer investors a way to pool their money in a fund that makes investments in stocks, bonds, or other assets and, in return, to receive an interest in that investment pool.  Unlike mutual funds, however, ETF shares are traded on a national stock exchange and at market prices that may or may not be the same as the net asset value (“NAV”) of the shares, that is, the value of the ETF’s assets minus its liabilities divided by the number of shares outstanding.
 
 ### Vanguard ETFs
+- https://investor.vanguard.com/etf/investment-options
 
 ### Fidelity ETFs
 
@@ -44,6 +45,12 @@ Like mutual funds, ETFs offer investors a way to pool their money in a fund that
   - [Investor Bulletin: ETFs](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-24)
 
 ## IV. Index Funds
+Index Fund - An investment that attempts to track the performance of a specific index (sometimes referred to as a "benchmark")—like the popular S&P 500 Index, Nasdaq Composite Index, or Dow Jones Industrial Average. A mutual fund or an ETF buys all or a representative sample of the bonds or stocks in the index that the fund tracks.
+
+### Market Indexes
+- S&P 500
+- DOW 30
+- Russel 2000
 
 Examples to Take a Look at:
 - 
