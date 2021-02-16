@@ -36,6 +36,7 @@ Like mutual funds, ETFs offer investors a way to pool their money in a fund that
 - https://investor.vanguard.com/etf/investment-options
 
 ### Fidelity ETFs
+- https://www.fidelity.com/etfs/different-types-of-etfs
 
 ### Charles Schwab ETFs
 
