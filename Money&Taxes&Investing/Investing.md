@@ -9,6 +9,23 @@
 
 ## I. Individual Stocks
 
+### Accounting Equation (Balance Sheet Equation):
+
+### Financial statements to look at:
+- Balance sheet
+- Income Statement
+- Cash Flow Statement
+- Footnotes
+
+### Forms to look at:
+- 10-Q
+- 10-K report
+- [8-K (Form 8K)](https://www.sec.gov/answers/form8k.htm)
+
+### Some terminology:
+- Assets: represent the resources that the business owns or controls at a given point in time. This includes items such as cash, inventory, machinery and buildings.
+- Equity (Shareholder Equity) (SE): 
+
 ### Indicators:
 - NAV(Net Asset Value):
 ## II. Mutual Funds
