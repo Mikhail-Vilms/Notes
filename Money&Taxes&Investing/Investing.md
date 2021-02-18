@@ -9,8 +9,6 @@
 
 ## I. Individual Stocks
 
-### Accounting Equation (Balance Sheet Equation):
-
 ### Financial statements to look at:
 - I. Balance sheet
 - II. Income Statement
@@ -23,7 +21,11 @@
   - Accounts Receivable (AR): is the balance of money due to a firm for goods or services delivered or used but not yet paid for by customers. Accounts receivables are listed on the balance sheet as a current asset. AR is any amount of money owed by customers for purchases made on credit.
   - Inventory
 - Liabilities
-- Shareholders' Equity
+- Shareholders' Equity: Shareholders' equity is a company's total assets minus its total liabilities. Shareholders' equity represents the amount of money that would be returned to shareholders if all of the assets were liquidated and all of the company's debt was paid off.
+
+
+Accounting Equation (Balance Sheet Equation):
+Assets = Liabilities + Shareholders' Equity
 
 #### II. Income Statement
 #### III. Cash Flow Statement
