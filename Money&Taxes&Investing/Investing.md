@@ -84,7 +84,7 @@ Companies within the materials sector provide the raw material needed for other 
 Accounting Equation (Balance Sheet Equation):
 Assets = Liabilities + Shareholders' Equity
 
-#### II. Income Statement
+#### II. [Income Statement (Profit and Loss Statement) (P&L) (Statement of Revenue and Expense)](https://www.investopedia.com/terms/i/incomestatement.asp)
 #### III. Cash Flow Statement
 #### IV. Footnotes
 
