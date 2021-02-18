@@ -15,7 +15,7 @@
 - III. Cash Flow Statement
 - IV. Footnotes
 
-#### I. Balance Sheet
+#### I. [Balance Sheet](https://www.investopedia.com/terms/b/balancesheet.asp)
 - Assets:
   - Cash and Cash Equivalents (CCE): reports the value of a company's assets that are cash or can be converted into cash immediately. Cash equivalents include bank accounts and marketable securities, which are debt securities with maturities of less than 90 days.
   - Accounts Receivable (AR): is the balance of money due to a firm for goods or services delivered or used but not yet paid for by customers. Accounts receivables are listed on the balance sheet as a current asset. AR is any amount of money owed by customers for purchases made on credit.
@@ -30,7 +30,7 @@
     - Notes payable—the principal portion of outstanding debt
     - Current portion of deferred revenue, such as prepayments by customers for work not completed or earned yet
     - Current Portion of Long-Term Debt (CPLTD): Current liabilities are a company's short-term financial obligations that are due within one year or within a normal operating cycle. The CPLTD is separated out on the company's balance sheet because it needs to be paid by highly liquid assets, such as cash. The CPLTD is an important tool for creditors and investors to use to identify if a company has the ability to pay off its short-term obligations as they come due.
-  - 
+  - Long-Term Debt: is debt that matures in more than one year and is often treated differently from short-term debt.
 - Shareholders' Equity: Shareholders' equity is a company's total assets minus its total liabilities. Shareholders' equity represents the amount of money that would be returned to shareholders if all of the assets were liquidated and all of the company's debt was paid off.
 
 
