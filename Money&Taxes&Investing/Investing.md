@@ -27,9 +27,7 @@ The information technology – IT – sector consists of companies that develop 
 
 
 2. Health Care
-Health care consists of medical supply companies, pharmaceutical companies, and scientific-based operations or services that aim to improve the human body or mind. Familiar names include Johnson & Johnson, a medical device and pharmaceutical company that owns Tylenol, and Abiomed, which manufactures medical implant devices.
-
-Cannabis companies are a new, but rapidly growing, part of the health care sector. Currently, the more well-known ones include Canopy Growth Corp. and Aurora Cannabis, with market caps of $23 billion and $12 billion, respectively.
+Health care consists of medical supply companies, pharmaceutical companies, and scientific-based operations or services that aim to improve the human body or mind. Familiar names include Johnson & Johnson, a medical device and pharmaceutical company that owns Tylenol, and Abiomed, which manufactures medical implant devices. Cannabis companies are a new, but rapidly growing, part of the health care sector. Currently, the more well-known ones include Canopy Growth Corp. and Aurora Cannabis, with market caps of $23 billion and $12 billion, respectively.
 
 3. Financials
 The financial sector includes all companies involved in finance, investing, and the movement or storage of money. It includes banks, credit card issuers, credit unions, insurance companies, and mortgage real estate investment trusts (REITs). Companies within this sector are usually relatively stable, as many are mature, well-established firms. Banks in this sector include Bank of America Corp, JPMorgan Chase & Co., and Goldman Sachs. Other notable sector names include Berkshire Hathaway, American Express, and Aon plc.
