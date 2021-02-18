@@ -12,15 +12,22 @@
 ### Accounting Equation (Balance Sheet Equation):
 
 ### Financial statements to look at:
-- Balance sheet
-- Income Statement
-- Cash Flow Statement
-- Footnotes
+- I. Balance sheet
+- II. Income Statement
+- III. Cash Flow Statement
+- IV. Footnotes
 
-#### Balance Sheet
+#### I. Balance Sheet
 - Assets
   - Cash and Cash Equivalents (CCE): reports the value of a company's assets that are cash or can be converted into cash immediately. Cash equivalents include bank accounts and marketable securities, which are debt securities with maturities of less than 90 days.
   - Accounts Receivable (AR): is the balance of money due to a firm for goods or services delivered or used but not yet paid for by customers. Accounts receivables are listed on the balance sheet as a current asset. AR is any amount of money owed by customers for purchases made on credit.
+  - Inventory
+- Liabilities
+- Shareholders' Equity
+
+#### II. Income Statement
+#### III. Cash Flow Statement
+#### IV. Footnotes
 
 ### Forms to look at:
 - 10-Q
