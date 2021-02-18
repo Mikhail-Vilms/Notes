@@ -85,6 +85,10 @@ Accounting Equation (Balance Sheet Equation):
 Assets = Liabilities + Shareholders' Equity
 
 #### II. [Income Statement (Profit and Loss Statement) (P&L) (Statement of Revenue and Expense)](https://www.investopedia.com/terms/i/incomestatement.asp)
+- Revenue
+  - Total Revenue
+  - Cost of Revenue
+  - Gross Profit
 #### III. Cash Flow Statement
 #### IV. Footnotes
 
