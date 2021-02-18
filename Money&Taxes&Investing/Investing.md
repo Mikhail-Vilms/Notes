@@ -17,6 +17,11 @@
 - Cash Flow Statement
 - Footnotes
 
+#### Balance Sheet
+- Assets
+  - Cash and Cash Equivalents (CCE): reports the value of a company's assets that are cash or can be converted into cash immediately. Cash equivalents include bank accounts and marketable securities, which are debt securities with maturities of less than 90 days.
+  - Accounts Receivable (AR): is the balance of money due to a firm for goods or services delivered or used but not yet paid for by customers. Accounts receivables are listed on the balance sheet as a current asset. AR is any amount of money owed by customers for purchases made on credit.
+
 ### Forms to look at:
 - 10-Q
 - 10-K report
