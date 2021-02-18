@@ -25,6 +25,9 @@
     - Accounts payable
     - Short-term debt such as bank loans or commercial paper issued to fund operations
     - Dividends payable
+    - Notes payable—the principal portion of outstanding debt
+    - Current portion of deferred revenue, such as prepayments by customers for work not completed or earned yet
+    - Current Portion of Long-Term Debt (CPLTD): Current liabilities are a company's short-term financial obligations that are due within one year or within a normal operating cycle. The CPLTD is separated out on the company's balance sheet because it needs to be paid by highly liquid assets, such as cash. The CPLTD is an important tool for creditors and investors to use to identify if a company has the ability to pay off its short-term obligations as they come due.
   - 
 - Shareholders' Equity: Shareholders' equity is a company's total assets minus its total liabilities. Shareholders' equity represents the amount of money that would be returned to shareholders if all of the assets were liquidated and all of the company's debt was paid off.
 
