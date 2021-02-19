@@ -64,11 +64,14 @@ Companies within the materials sector provide the raw material needed for other 
 
 #### I. [Balance Sheet](https://www.investopedia.com/terms/b/balancesheet.asp)
 - Assets:
-  - Cash and Cash Equivalents (CCE): reports the value of a company's assets that are cash or can be converted into cash immediately. Cash equivalents include bank accounts and marketable securities, which are debt securities with maturities of less than 90 days.
-  - Accounts Receivable (AR): is the balance of money due to a firm for goods or services delivered or used but not yet paid for by customers. Accounts receivables are listed on the balance sheet as a current asset. AR is any amount of money owed by customers for purchases made on credit.
-  - Marketable securities: equity and debt securities for which there is a liquid market.
-  - Inventory: is goods available for sale, valued at the lower of the cost or market price.
-  - Prepaid expenses: represent the value that has already been paid for, such as insurance, advertising contracts or rent.
+  - Current Assets: Assets that get easily converted into cash or utilized through the normal operating cycle of the business or within one year (whichever is greater) are current assets. Here, the operating cycle means the time it takes to buy or produce inventory, sell the finished products and collect cash for the same.
+    - Cash and Cash Equivalents (CCE): reports the value of a company's assets that are cash or can be converted into cash immediately. Cash equivalents include bank accounts and marketable securities, which are debt securities with maturities of less than 90 days.
+       - Cash
+       - Cash Equivalents
+    - Accounts Receivable (AR): is the balance of money due to a firm for goods or services delivered or used but not yet paid for by customers. Accounts receivables are listed on the balance sheet as a current asset. AR is any amount of money owed by customers for purchases made on credit.
+    - Marketable securities: equity and debt securities for which there is a liquid market.
+    - Inventory: is goods available for sale, valued at the lower of the cost or market price.
+    - Prepaid expenses: represent the value that has already been paid for, such as insurance, advertising contracts or rent.
 - Liabilities:
   - Current Liabilities: Current liabilities are a company's short-term financial obligations that are due within one year or within a normal operating cycle. An operating cycle, also referred to as the cash conversion cycle, is the time it takes a company to purchase inventory and convert it to cash from sales. An example of a current liability is money owed to suppliers in the form of accounts payable. Current liabilities are typically settled using current assets, which are assets that are used up within one year.
     - Accounts payable
@@ -83,6 +86,9 @@ Companies within the materials sector provide the raw material needed for other 
 
 Accounting Equation (Balance Sheet Equation):
 Assets = Liabilities + Shareholders' Equity
+
+links:
+- https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/
 
 #### II. [Income Statement (Profit and Loss Statement) (P&L) (Statement of Revenue and Expense)](https://www.investopedia.com/terms/i/incomestatement.asp)
 - Revenue
