@@ -10,9 +10,9 @@ III. ETFs
 ## I. Individual Stocks
 
 ### [Market Sectors](https://corporatefinanceinstitute.com/resources/knowledge/finance/the-sp-sectors/):
-I. Information Technology
-II. Health Care
-III. Financials
+1. Information Technology
+2. Health Care
+3. Financials
 - IV. Consumer Discretionary
 - V. Communication Services
 - VI. Industrials
