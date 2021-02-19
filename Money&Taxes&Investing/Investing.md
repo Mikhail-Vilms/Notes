@@ -64,7 +64,7 @@ Companies within the materials sector provide the raw material needed for other 
 
 #### I. [Balance Sheet](https://www.investopedia.com/terms/b/balancesheet.asp)
 - **Assets**:
-  - Current Assets: Assets that get easily converted into cash or utilized through the normal operating cycle of the business or within one year (whichever is greater) are current assets. Here, the operating cycle means the time it takes to buy or produce inventory, sell the finished products and collect cash for the same.
+  - [Current Assets](https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/): Assets that get easily converted into cash or utilized through the normal operating cycle of the business or within one year (whichever is greater) are current assets. Here, the operating cycle means the time it takes to buy or produce inventory, sell the finished products and collect cash for the same.
     - Cash and Cash Equivalents (CCE): reports the value of a company's assets that are cash or can be converted into cash immediately. Cash equivalents include bank accounts and marketable securities, which are debt securities with maturities of less than 90 days.
        - Cash
        - Cash Equivalents
