@@ -1,12 +1,12 @@
 # Investing
 
-1. Individual Stocks
-  1.1. [Market Sectors][]
-3. Mutual Funds
-4. ETFs
-5. Index Funds
-6. Bonds
-7. REITs
+- 1. Individual Stocks
+  - 1.1. [Market Sectors][]
+- 3. Mutual Funds
+- 4. ETFs
+- 5. Index Funds
+- 6. Bonds
+- 7. REITs
 
 ## I. Individual Stocks
 
