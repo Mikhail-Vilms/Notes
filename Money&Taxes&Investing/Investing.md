@@ -1,8 +1,8 @@
 # Investing
 
-1) Individual Stocks
-2) Mutual Funds
-3) ETFs
+I. Individual Stocks
+II. Mutual Funds
+III. ETFs
 4) Index Funds
 5) Bonds
 6) REITs
