@@ -1,18 +1,19 @@
 # Investing
 
-I. Individual Stocks
-II. Mutual Funds
-III. ETFs
-4) Index Funds
-5) Bonds
-6) REITs
+1. Individual Stocks
+  1.1. [Market Sectors](Market Sectors)  
+3. Mutual Funds
+4. ETFs
+5. Index Funds
+6. Bonds
+7. REITs
 
 ## I. Individual Stocks
 
 ### [Market Sectors](https://corporatefinanceinstitute.com/resources/knowledge/finance/the-sp-sectors/):
-1. Information Technology
-2. Health Care
-3. Financials
+- I. Information Technology
+- II. Health Care
+- III. Financials
 - IV. Consumer Discretionary
 - V. Communication Services
 - VI. Industrials
