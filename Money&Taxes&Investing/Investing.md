@@ -1,7 +1,6 @@
 # Investing
 
 - 1. Individual Stocks
-  - 1.1. [Market Sectors][]
 - 3. Mutual Funds
 - 4. ETFs
 - 5. Index Funds
