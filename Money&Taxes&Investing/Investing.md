@@ -64,7 +64,7 @@ Companies within the materials sector provide the raw material needed for other 
 
 #### I. [Balance Sheet](https://www.investopedia.com/terms/b/balancesheet.asp)
 - **Assets**:
-  - [Current Assets](https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/): Assets that get easily converted into cash or utilized through the normal operating cycle of the business or within one year (whichever is greater) are current assets. Here, the operating cycle means the time it takes to buy or produce inventory, sell the finished products and collect cash for the same.
+  - **[Current Assets](https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/)**: Assets that get easily converted into cash or utilized through the normal operating cycle of the business or within one year (whichever is greater) are current assets. Here, the operating cycle means the time it takes to buy or produce inventory, sell the finished products and collect cash for the same.
     - Cash and Cash Equivalents (CCE): reports the value of a company's assets that are cash or can be converted into cash immediately. Cash equivalents include bank accounts and marketable securities, which are debt securities with maturities of less than 90 days.
        - Cash: is the most liquid asset of an entity and thus is important for the short-term solvency of the company. The cash balance shown under current assets is the balance available with the business. This cash can be promptly used to meet its day-to-day expenses. It typically includes coins, currencies, funds on deposit with bank, cheques and money orders.
        - Cash Equivalents: Cash equivalents are the result of cash invested by the companies in very short-term, interest-earning financial instruments. These instruments are highly liquid, secure and can be easily converted into cash usually within 90 days. Furthermore, these securities include treasury bills, commercial paper and money market funds. Also, these securities readily trade in the market and the value of such securities can also be readily determined.
@@ -72,6 +72,13 @@ Companies within the materials sector provide the raw material needed for other 
     - Marketable securities: equity and debt securities for which there is a liquid market.
     - Inventory: is goods available for sale, valued at the lower of the cost or market price.
     - Prepaid expenses: represent the value that has already been paid for, such as insurance, advertising contracts or rent.
+  - **(Non-Current Assets)[https://www.investopedia.com/terms/n/noncurrent-assets.asp]**: Noncurrent assets are a company's long-term investments for which the full value will not be realized within the accounting year.
+    - **PP&E(Property Plan and Equipment)**: are long-term tangible assets that are physical in nature. These are non-current assets that are used in the company’s operations for a longer part of the time. They are also called as the fixed assets of the company as it cannot be easily liquidated. Property plant and equipment is considered a long-term capital investment and its purchase shows that the management has a belief in the long-term outlook and profitability in the company. PP&E assets are expected to generate economic benefits.
+    - **Natural Resources**
+    - **Intangible Assets** like Patents, Copyrights, etc: “Other intangible assets” examples primarily include corporate intellectual property such as patents, trademarks, copyrights & business methodologies. Intangible Assets on the balance sheet are recognized only when they are bought from an external entity, not if they are developed internally. Note that “other intangible assets” are amortized.
+    - **Goodwill**: When one company buys another company, it is buying more than just assets on a balance sheet. It’s also buying some intangibles, like the quality of the employees and client base, reputation, or brand name. It implies that the firm purchasing another business pays more than the fair market value of the business assets. If the excess purchase price cannot be attributed to patents, brands, copyrights, or other intangible assets, it is recorded as Goodwill.
+    - **Long Term Investments**
+    - **Other Long-Term Assets**
 - **Liabilities**:
   - Current Liabilities: Current liabilities are a company's short-term financial obligations that are due within one year or within a normal operating cycle. An operating cycle, also referred to as the cash conversion cycle, is the time it takes a company to purchase inventory and convert it to cash from sales. An example of a current liability is money owed to suppliers in the form of accounts payable. Current liabilities are typically settled using current assets, which are assets that are used up within one year.
     - Accounts payable
@@ -89,6 +96,7 @@ Assets = Liabilities + Shareholders' Equity
 
 links:
 - https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/
+- https://www.investopedia.com/terms/n/noncurrent-assets.asp
 
 #### II. [Income Statement (Profit and Loss Statement) (P&L) (Statement of Revenue and Expense)](https://www.investopedia.com/terms/i/incomestatement.asp)
 - Revenue
