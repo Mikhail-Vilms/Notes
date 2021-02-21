@@ -47,3 +47,10 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
 ### Revenues (Sales) (Turnover): Represents
 
 ## Statement of Cash Flows
+- Operating Cash Flow (Cash Flow from Operating Activities)
+- Investing Cash Flow (Cash Flow from Investing Activities)
+- Financing Cash Flow (Cash Flow from Financing Activities)
+
+### Operating Cash Flow (Cash Flow from Operating Activities)
+### Operating Cash Flow (Cash Flow from Operating Activities)
+### Operating Cash Flow (Cash Flow from Operating Activities)
