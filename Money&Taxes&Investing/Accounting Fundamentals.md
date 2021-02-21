@@ -16,12 +16,13 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
 
 ### Assets:
 - Current Assets
-  - Accounts
-  - Prepaid Expense  
+  - Accounts Receivable: Amounts owed by the customers to the company
+  - Prepaid Expense (Prepayments): Upftont payment relating to a future period
 
 ### Liabilities:
 - Current Liabilities
-  - Accrued Expenses
+  - Accounts Payable: Amounts owed by the company to the suppliers
+  - Accrued Expenses: Expences that have not been incurred but not yet paid
 
 ## Income Statement (Statement of Operations) (Statement of Profit and Loss) (P&L)
 
