@@ -11,18 +11,28 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
 ## Summary
 - Income Statement feeds into "Retained Earnings" account on the Balance Sheet
 
-
 ## Balance Sheet
 
 ### Assets:
-- Current Assets
-  - Accounts Receivable: Amounts owed by the customers to the company
-  - Prepaid Expense (Prepayments): Upftont payment relating to a future period
-
+- **Current Assets**: Short-term economic resources that are expected to be converted into cash within one year. Current assets include cash and cash equivalents, accounts receivable, inventory, and various prepaid expenses
+  - **Cash And Cash Equivalents (CCE)**
+  - **Accounts Receivable**: Refers to money that customers owe the company, perhaps including an allowance for doubtful accounts since a certain proportion of customers can be expected not to pay.
+  - **Stock or Inventory**: Is goods available for sale, valued at the lower of the cost or market price. 
+  - **Marketable Securities**: Marketable securities are the investments made by the company. These investments are both easily marketable as well as expected to be converted into cash within a year. These include treasury bills, notes, bonds and equity securities.
+  - **Prepaid Expense (Prepayments)**: Represent the value that has already been paid for, such as insurance, advertising contracts or rent.
+- **Non-current Assets (Long-term Assets)**:
+  - **[Plant, Property, and Equipment (PP&E)](https://corporatefinanceinstitute.com/resources/knowledge/accounting/ppe-property-plant-equipment/)**: Property, plant, and equipment basically includes any of a company’s long-term, fixed assets. PP&E assets are tangible, identifiable, and expected to generate an economic return for the company for more than one year or one operating cycle (whichever is longer). The account can include machinery, equipment, vehicles, buildings, land, office equipment, and furnishings, among other things. Note that, of all these asset classes, land is one of the only assets that does not depreciate over time. If a company produces machinery (for sale), that machinery is not classified as property, plant, and equipment, but rather is classified as inventory. The same goes for real estate companies that hold buildings and land under their assets. Their office buildings and land are PP&E, but the houses or land they sell are inventory.
 ### Liabilities:
 - Current Liabilities
   - Accounts Payable: Amounts owed by the company to the suppliers
   - Accrued Expenses: Expences that have not been incurred but not yet paid
+
+### Links:
+- https://dashboard.corporatefinanceinstitute.com/courses/accounting-fundamentals/
+- https://quickbooks.intuit.com/in/resources/finance-and-accounting-finance-and-accounting/basic-financial-statements/
+- https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/
+- https://quickbooks.intuit.com/in/resources/cash-flow/cash-flow-statement-business/
+- https://corporatefinanceinstitute.com/resources/knowledge/accounting/balance-sheet/
 
 ## Income Statement (Statement of Operations) (Statement of Profit and Loss) (P&L)
 
