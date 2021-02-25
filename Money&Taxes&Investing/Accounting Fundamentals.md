@@ -92,5 +92,5 @@ Imagine a company that owns two factories that make cell phone screens. The land
 While this land sale has created real profits for the company and its shareholders, it is considered an “extraordinary item” because there is no reason to believe the company can repeat that transaction in the future. Shareholders might be misled if the windfall is included in the numerator of the EPS equation, so it is excluded.
 
 ### Links:
-https://www.investopedia.com/terms/e/eps.asp
-https://www.investopedia.com/terms/p/price-earningsratio.asp
+- https://www.investopedia.com/terms/e/eps.asp
+- https://www.investopedia.com/terms/p/price-earningsratio.asp
