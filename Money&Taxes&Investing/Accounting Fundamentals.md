@@ -90,3 +90,7 @@ Short-term economic resources that are expected to be converted into cash within
 Imagine a company that owns two factories that make cell phone screens. The land on which one of the factories sits has become very valuable as new developments have surrounded it over the last few years. The company’s management team decides to sell the factory and build another one on less valuable land. This transaction creates a windfall profit for the firm.
 
 While this land sale has created real profits for the company and its shareholders, it is considered an “extraordinary item” because there is no reason to believe the company can repeat that transaction in the future. Shareholders might be misled if the windfall is included in the numerator of the EPS equation, so it is excluded.
+
+### Links:
+https://www.investopedia.com/terms/e/eps.asp
+https://www.investopedia.com/terms/p/price-earningsratio.asp
