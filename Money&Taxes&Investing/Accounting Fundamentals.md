@@ -7,6 +7,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
 - Balance Sheet
 - Income Statement
 - Statement of Cash Flows
+- Metrics for valuing a company
 
 ## Summary
 - Income Statement feeds into "Retained Earnings" account on the Balance Sheet
@@ -79,3 +80,8 @@ Short-term economic resources that are expected to be converted into cash within
 ### Operating Cash Flow (Cash Flow from Operating Activities)
 ### Operating Cash Flow (Cash Flow from Operating Activities)
 ### Operating Cash Flow (Cash Flow from Operating Activities)
+
+## Metrics for valuing a company
+### EPS (Earnings Per Share)
+- Earnings per share (EPS) is a company's net profit divided by the number of common shares it has outstanding.
+- 
