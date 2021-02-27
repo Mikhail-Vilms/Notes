@@ -17,7 +17,8 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Shareholder Equity](#shareholder-equity)
      - [Share Capital](#share-capital)
      - [Retained Earnings](#retained-earnings)
-- Income Statement
+- [Income Statement](#income-statement)
+  - [Sales](#sales)
 - Statement of Cash Flows
 - Metrics for valuing a company
 
