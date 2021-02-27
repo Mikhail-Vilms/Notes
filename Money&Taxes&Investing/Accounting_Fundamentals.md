@@ -19,6 +19,8 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
      - [Retained Earnings](#retained-earnings)
 - [Income Statement](#income-statement)
   - [Sales](#sales)
+  - [Cost of Goods Sold](#cost-of-goods-sold)
+  - [Gross Profit](#gross-profit)
 - Statement of Cash Flows
 - Metrics for valuing a company
 
@@ -98,9 +100,18 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 ## Income Statement
 The [Income Statement](https://corporatefinanceinstitute.com/resources/knowledge/accounting/income-statement/) (Statement of Operations) (Statement of Profit and Loss) (P&L) is one of a company’s core financial statements that shows their profit and loss over a period of time. The profit or loss is determined by taking all revenues and subtracting all expenses from both operating and non-operating activities.
 
-- Revenues (Sales) (Turnover): Represents the income that company recieves for saling goods or services
-- Direct Operating Cost (Cost of Goods Sold) (Cost of Sales)
-- *Gross Profit* = Revenues - Direct Operating Cost
+### Sales
+- [Sales](https://corporatefinanceinstitute.com/resources/knowledge/accounting/sales-revenue/) (Revenue) (Turnover) is the company’s revenue from sales or services, displayed at the very top of the statement
+- This value will be the gross of the costs associated with creating the goods sold or in providing services
+- Some companies have multiple revenue streams that add to a total revenue line.
+- It is important to note that revenue does not necessarily mean cash received. A portion of sales revenue may be paid in cash and a portion may be paid on credit, through such means as accounts receivables.
+- The very first line of the income statement is sales revenue. This is important for two reasons. First, it marks
+
+### Cost of Goods Sold
+[Cost of Goods Sold](https://corporatefinanceinstitute.com/resources/knowledge/accounting/cost-of-goods-sold-cogs/) (COGS) (Direct Operating Cost) (Cost of Sales) measures the “direct cost” incurred in the production of any goods or services. It includes material cost, direct labor cost, and direct factory overheads, and is directly proportional to revenue.
+
+### Gross Profit
+
 - Inderect Operating Cost:
   - R&D (Research and Development)
   - Selling Expenses
@@ -120,8 +131,8 @@ The [Income Statement](https://corporatefinanceinstitute.com/resources/knowledge
 
 ### Links
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/income-statement/
-
-
+- https://corporatefinanceinstitute.com/resources/knowledge/accounting/sales-revenue/
+- https://corporatefinanceinstitute.com/resources/knowledge/accounting/cost-of-goods-sold-cogs/
 
 ## Statement of Cash Flows
 - Operating Cash Flow (Cash Flow from Operating Activities): includes items that could be found on the income statement such as:Revenue and Operating Expenses
