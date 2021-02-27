@@ -11,6 +11,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Non-Current Liabilities](#non-current-liabilities)
     - [Credit Lines](#credit-lines)
     - [Long-term Lease](#long-term-lease)
+    - [Bonds Payable](#bonds-payable)
 - Income Statement
 - Statement of Cash Flows
 - Metrics for valuing a company
@@ -56,7 +57,7 @@ Lease payments are common expenditures that companies are required to meet to fu
 
 If the lease term exceeds one year, the lease payments made towards the capital lease are treated as non-current liabilities since they reduce the long-term obligations of the lease. The property purchased using the capital lease is recorded as an asset on the balance sheet.
 
-#### Bonds payable
+#### Bonds Payable
 A bond is a long-term lending arrangement between a lender and a borrower, and it is used as a means of financing capital projects. Bonds are issued through an investment bank, and they are classified as long-term liabilities if the payment period exceeds one year. The borrower must make interest payments at fixed amounts over an agreed period of time, usually more than one year.
 
 #### Notes payable
