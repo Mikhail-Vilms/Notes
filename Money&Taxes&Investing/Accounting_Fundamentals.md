@@ -12,6 +12,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
     - [Credit Lines](#credit-lines)
     - [Long-term Lease](#long-term-lease)
     - [Bonds Payable](#bonds-payable)
+    - [Notes Payable](#notes-payable)
 - Income Statement
 - Statement of Cash Flows
 - Metrics for valuing a company
@@ -60,7 +61,7 @@ If the lease term exceeds one year, the lease payments made towards the capital 
 #### Bonds Payable
 A bond is a long-term lending arrangement between a lender and a borrower, and it is used as a means of financing capital projects. Bonds are issued through an investment bank, and they are classified as long-term liabilities if the payment period exceeds one year. The borrower must make interest payments at fixed amounts over an agreed period of time, usually more than one year.
 
-#### Notes payable
+#### Notes Payable
 A note, also called a promissory note, is a special type of loan arrangement where a borrower makes an unconditional promise to pay back the principal plus interest to the lender. The promissory note is used to finance the purchase of assets such as machinery and buildings. If the maturity period of the note exceeds one year, it is considered a non-current asset.
 
 #### Deferred tax liabilities
