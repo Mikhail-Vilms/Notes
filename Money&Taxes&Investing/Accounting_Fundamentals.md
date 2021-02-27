@@ -13,7 +13,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
     - [Long-term Lease](#long-term-lease)
     - [Bonds Payable](#bonds-payable)
     - [Notes Payable](#notes-payable)
-    - [Deferred Tax Liabilities](deferred-tax-liabilities)
+    - [Deferred Tax Liabilities](#deferred-tax-liabilities)
 - Income Statement
 - Statement of Cash Flows
 - Metrics for valuing a company
