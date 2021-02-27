@@ -14,7 +14,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
     - [Bonds Payable](#bonds-payable)
     - [Notes Payable](#notes-payable)
     - [Deferred Tax Liabilities](#deferred-tax-liabilities)
-  - [Shareholder Equity](shareholder-equity)
+  - [Shareholder Equity](#shareholder-equity)
      - [Share Capital](#share-capital)
      - [Retained Earnings](#retained-earnings)
 - Income Statement
