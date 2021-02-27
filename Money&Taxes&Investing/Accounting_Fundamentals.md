@@ -76,7 +76,12 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 - Retained earnings is part of shareholder equity and is the percentage of net earnings that were not paid to shareholders as dividends. Retained earnings should not be confused with cash or other liquid assets. This is because years of retained earnings could be used for either expenses or any asset type to grow the business. Shareholders’ equity for a company that is a going concern is not the same as liquidation value. In liquidation, physical asset values have been reduced and other extraordinary conditions exist.
 
 #### Share Capital
-### Retained Earnings
+(Shareholders’ Capital, Equity Capital, Contributed Capital, or Paid-in Capital)
+- This is the value of funds that shareholders have invested in the company. When a company is first formed, shareholders will typically put in cash. For example, an investor starts a company and seeds it with $10M. Cash (an asset) rises by $10M, and Share Capital (an equity account) rises by $10M, balancing out the balance sheet.
+- Through the fundamental equation where assets equal liabilities plus equity, we can see that assets must be funded through one of the two. One method for a company to fund its assets is to create liabilities (borrow money or issue debt) and, therefore, create obligations that must be paid back. The other option is to issue equity through common shares or preferred shares. In exchange for an ownership interest claim to the company, the company receives cash from investors and shareholders.
+- 
+#### Retained Earnings
+- This is the total amount of net income the company decides to keep. Every period, a company may pay out dividends from its net income. Any amount remaining (or exceeding) is added to (deducted from) retained earnings.
 
 ### Links:
 - https://dashboard.corporatefinanceinstitute.com/courses/accounting-fundamentals/
@@ -86,9 +91,11 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/balance-sheet/
 
 - https://www.investopedia.com/terms/s/shareholdersequity.asp
+- https://corporatefinanceinstitute.com/resources/knowledge/accounting/share-capital/
+- https://corporatefinanceinstitute.com/resources/knowledge/accounting/retained-earnings-guide/
 
-
-## Income Statement (Statement of Operations) (Statement of Profit and Loss) (P&L)
+## Income Statement
+The [Income Statement](https://corporatefinanceinstitute.com/resources/knowledge/accounting/income-statement/) (Statement of Operations) (Statement of Profit and Loss) (P&L) is one of a company’s core financial statements that shows their profit and loss over a period of time. The profit or loss is determined by taking all revenues and subtracting all expenses from both operating and non-operating activities.
 
 - Revenues (Sales) (Turnover): Represents the income that company recieves for saling goods or services
 - Direct Operating Cost (Cost of Goods Sold) (Cost of Sales)
@@ -109,6 +116,11 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 
 
 ### Revenues (Sales) (Turnover): Represents
+
+### Links
+- https://corporatefinanceinstitute.com/resources/knowledge/accounting/income-statement/
+
+
 
 ## Statement of Cash Flows
 - Operating Cash Flow (Cash Flow from Operating Activities): includes items that could be found on the income statement such as:Revenue and Operating Expenses
