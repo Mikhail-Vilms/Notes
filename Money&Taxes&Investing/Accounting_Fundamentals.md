@@ -3,8 +3,8 @@
 Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinstitute.com/courses/accounting-fundamentals/)" course + some links
 
 ## Table of Contents:
-- Summary
-- Balance Sheet
+- [Summary](#summary)
+- [Balance Sheet](#balance-sheet)
   - [Current Assets](#current-assets)
   - [Non-current Assets](#non-current-assets)
     - [PP&E](#ppe)
@@ -14,6 +14,9 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
     - [Bonds Payable](#bonds-payable)
     - [Notes Payable](#notes-payable)
     - [Deferred Tax Liabilities](#deferred-tax-liabilities)
+  - [Shareholder Equity](shareholder-equity)
+     - [Share Capital](#share-capital)
+     - [Retained Earnings](#retained-earnings)
 - Income Statement
 - Statement of Cash Flows
 - Metrics for valuing a company
@@ -68,12 +71,22 @@ A note, also called a promissory note, is a special type of loan arrangement whe
 #### Deferred Tax Liabilities
 Deferred tax liabilities refer to the amount of taxes that a company has not paid in the current period, and that are required to be paid in the future. The liability is calculated by finding the difference between the accrued tax and the taxes payable. Therefore, the company will be required to pay more tax in the future due to a transaction that occurred in the current period for which tax has not been remitted.
 
+### Shareholder Equity
+- For corporations, shareholder equity (SE), also referred to as shareholders' equity and stockholders' equity, is the corporation's owners' residual claim on assets after debts have been paid. Equity is equal to a firm's total assets minus its total liabilities.
+- Retained earnings is part of shareholder equity and is the percentage of net earnings that were not paid to shareholders as dividends. Retained earnings should not be confused with cash or other liquid assets. This is because years of retained earnings could be used for either expenses or any asset type to grow the business. Shareholders’ equity for a company that is a going concern is not the same as liquidation value. In liquidation, physical asset values have been reduced and other extraordinary conditions exist.
+
+#### Share Capital
+### Retained Earnings
+
 ### Links:
 - https://dashboard.corporatefinanceinstitute.com/courses/accounting-fundamentals/
 - https://quickbooks.intuit.com/in/resources/finance-and-accounting-finance-and-accounting/basic-financial-statements/
 - https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/
 - https://quickbooks.intuit.com/in/resources/cash-flow/cash-flow-statement-business/
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/balance-sheet/
+
+- https://www.investopedia.com/terms/s/shareholdersequity.asp
+
 
 ## Income Statement (Statement of Operations) (Statement of Profit and Loss) (P&L)
 
