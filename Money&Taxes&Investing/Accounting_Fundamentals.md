@@ -1,6 +1,6 @@
 # Accounting Fundamentals
 
-Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinstitute.com/courses/accounting-fundamentals/)" course
+Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinstitute.com/courses/accounting-fundamentals/)" course + some links
 
 ## Table of Contents:
 - Summary
