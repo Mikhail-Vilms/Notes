@@ -8,6 +8,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Current Assets](#current-assets)
   - [Non-current Assets](#non-current-assets)
     - [PP&E](#ppe)
+  - Non-Current Liabilities(#non-current-liabilities)
 - Income Statement
 - Statement of Cash Flows
 - Metrics for valuing a company
@@ -40,8 +41,8 @@ Amounts owed by the company to the suppliers
 #### Accrued Expenses
 Expences that have not been incurred but not yet paid
 
-### Non-Current Liabilities (Long-term Liabilities) (Long-term Debts)
-A non-current liability refers to the financial obligations in a company’s balance sheet that are not expected to be paid within one year. Non-current liabilities are due in the long term, compared to short-term liabilities, which are due within one year.
+### Non-Current Liabilities
+A [Non-Current Liabilities (Long-term Liabilities) (Long-term Debts)] (https://corporatefinanceinstitute.com/resources/knowledge/accounting/non-current-liability/) refers to the financial obligations in a company’s balance sheet that are not expected to be paid within one year. Non-current liabilities are due in the long term, compared to short-term liabilities, which are due within one year.
 
 #### Credit lines
 A credit line is an arrangement between a lender and a borrower, where the lender makes a specific amount of funds available for the business when needed. Instead of getting lump-sum credit, the business draws a specific amount of credit when needed up to the credit limit allowed by the lender.
