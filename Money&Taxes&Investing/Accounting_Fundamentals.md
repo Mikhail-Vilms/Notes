@@ -5,6 +5,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
 ## Table of Contents:
 - Summary
 - Balance Sheet
+  - [Current Assets](#current-assets)
 - Income Statement
 - Statement of Cash Flows
 - Metrics for valuing a company
