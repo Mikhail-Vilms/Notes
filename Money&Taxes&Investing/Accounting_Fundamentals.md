@@ -13,6 +13,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
     - [Long-term Lease](#long-term-lease)
     - [Bonds Payable](#bonds-payable)
     - [Notes Payable](#notes-payable)
+    - [Deferred Tax Liabilities](deferred-tax-liabilities)
 - Income Statement
 - Statement of Cash Flows
 - Metrics for valuing a company
@@ -64,7 +65,7 @@ A bond is a long-term lending arrangement between a lender and a borrower, and i
 #### Notes Payable
 A note, also called a promissory note, is a special type of loan arrangement where a borrower makes an unconditional promise to pay back the principal plus interest to the lender. The promissory note is used to finance the purchase of assets such as machinery and buildings. If the maturity period of the note exceeds one year, it is considered a non-current asset.
 
-#### Deferred tax liabilities
+#### Deferred Tax Liabilities
 Deferred tax liabilities refer to the amount of taxes that a company has not paid in the current period, and that are required to be paid in the future. The liability is calculated by finding the difference between the accrued tax and the taxes payable. Therefore, the company will be required to pay more tax in the future due to a transaction that occurred in the current period for which tax has not been remitted.
 
 ### Links:
