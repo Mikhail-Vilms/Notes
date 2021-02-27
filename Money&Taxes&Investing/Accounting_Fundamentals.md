@@ -9,6 +9,8 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Non-current Assets](#non-current-assets)
     - [PP&E](#ppe)
   - [Non-Current Liabilities](#non-current-liabilities)
+    - [Credit Lines](#credit-lines)
+    - [Long-term Lease](#long-term-lease)
 - Income Statement
 - Statement of Cash Flows
 - Metrics for valuing a company
@@ -44,12 +46,12 @@ Expences that have not been incurred but not yet paid
 ### Non-Current Liabilities
 A [Non-Current Liabilities](https://corporatefinanceinstitute.com/resources/knowledge/accounting/non-current-liability/) (Long-term Liabilities) (Long-term Debts)]  refers to the financial obligations in a company’s balance sheet that are not expected to be paid within one year. Non-current liabilities are due in the long term, compared to short-term liabilities, which are due within one year.
 
-#### Credit lines
+#### Credit Lines
 A credit line is an arrangement between a lender and a borrower, where the lender makes a specific amount of funds available for the business when needed. Instead of getting lump-sum credit, the business draws a specific amount of credit when needed up to the credit limit allowed by the lender.
 
 A credit line is usually valid for a specified period of time when the business can draw the funds. If a business draws funds to purchase industrial equipment, the credit will be classified as a non-current liability.
 
-#### Long-term lease
+#### Long-term Lease
 Lease payments are common expenditures that companies are required to meet to fulfill their purchase commitments. Companies use capital leases to finance the purchase of fixed assets, such as industrial equipment and motor vehicles.
 
 If the lease term exceeds one year, the lease payments made towards the capital lease are treated as non-current liabilities since they reduce the long-term obligations of the lease. The property purchased using the capital lease is recorded as an asset on the balance sheet.
@@ -59,6 +61,9 @@ A bond is a long-term lending arrangement between a lender and a borrower, and i
 
 #### Notes payable
 A note, also called a promissory note, is a special type of loan arrangement where a borrower makes an unconditional promise to pay back the principal plus interest to the lender. The promissory note is used to finance the purchase of assets such as machinery and buildings. If the maturity period of the note exceeds one year, it is considered a non-current asset.
+
+#### Deferred tax liabilities
+Deferred tax liabilities refer to the amount of taxes that a company has not paid in the current period, and that are required to be paid in the future. The liability is calculated by finding the difference between the accrued tax and the taxes payable. Therefore, the company will be required to pay more tax in the future due to a transaction that occurred in the current period for which tax has not been remitted.
 
 ### Links:
 - https://dashboard.corporatefinanceinstitute.com/courses/accounting-fundamentals/
