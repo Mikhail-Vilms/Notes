@@ -133,7 +133,7 @@ The [Income Statement](https://corporatefinanceinstitute.com/resources/knowledge
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/income-statement/
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/sales-revenue/
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/cost-of-goods-sold-cogs/
-
+- https://corporatefinanceinstitute.com/resources/knowledge/accounting/gross-profit/
 ## Statement of Cash Flows
 - Operating Cash Flow (Cash Flow from Operating Activities): includes items that could be found on the income statement such as:Revenue and Operating Expenses
   - Revenues
