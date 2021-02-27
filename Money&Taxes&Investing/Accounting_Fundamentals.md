@@ -8,7 +8,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Current Assets](#current-assets)
   - [Non-current Assets](#non-current-assets)
     - [PP&E](#ppe)
-  - Non-Current Liabilities(#non-current-liabilities)
+  - [Non-Current Liabilities](#non-current-liabilities)
 - Income Statement
 - Statement of Cash Flows
 - Metrics for valuing a company
