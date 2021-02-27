@@ -6,7 +6,8 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
 - Summary
 - Balance Sheet
   - [Current Assets](#current-assets)
-  -  Non-current Assets(#)
+  - [Non-current Assets](#non-current-assets)
+    - [PP&E](#pp&e)
 - Income Statement
 - Statement of Cash Flows
 - Metrics for valuing a company
@@ -25,8 +26,11 @@ Short-term economic resources that are expected to be converted into cash within
 - **Prepaid Expense (Prepayments)**: Represent the value that has already been paid for, such as insurance, advertising contracts or rent.
 
 
-### Non-current Assets (Long-term Assets)
-- **[Plant, Property, and Equipment (PP&E)](https://corporatefinanceinstitute.com/resources/knowledge/accounting/ppe-property-plant-equipment/)**: Property, plant, and equipment basically includes any of a company’s long-term, fixed assets. PP&E assets are tangible, identifiable, and expected to generate an economic return for the company for more than one year or one operating cycle (whichever is longer). The account can include machinery, equipment, vehicles, buildings, land, office equipment, and furnishings, among other things. Note that, of all these asset classes, land is one of the only assets that does not depreciate over time. If a company produces machinery (for sale), that machinery is not classified as property, plant, and equipment, but rather is classified as inventory. The same goes for real estate companies that hold buildings and land under their assets. Their office buildings and land are PP&E, but the houses or land they sell are inventory.
+### Non-current Assets
+(Long-term Assets)
+#### [PP&E](https://corporatefinanceinstitute.com/resources/knowledge/accounting/ppe-property-plant-equipment/)
+
+Property, plant, and equipment (PP&E) basically includes any of a company’s long-term, fixed assets. PP&E assets are tangible, identifiable, and expected to generate an economic return for the company for more than one year or one operating cycle (whichever is longer). The account can include machinery, equipment, vehicles, buildings, land, office equipment, and furnishings, among other things. Note that, of all these asset classes, land is one of the only assets that does not depreciate over time. If a company produces machinery (for sale), that machinery is not classified as property, plant, and equipment, but rather is classified as inventory. The same goes for real estate companies that hold buildings and land under their assets. Their office buildings and land are PP&E, but the houses or land they sell are inventory.
 
 
 
