@@ -19,6 +19,9 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
      - [Retained Earnings](#retained-earnings)
 - [Income Statement](#income-statement)
   - [Sales](#sales)
+    - [Operating Revenue](#operating-revenue)
+    - [Non-Operating Revenue](#non-operating-revenue)
+    - [Gains](#gains)
   - [Cost of Goods Sold](#cost-of-goods-sold)
   - [Gross Profit](#gross-profit)
 - Statement of Cash Flows
@@ -105,12 +108,28 @@ The [Income Statement](https://corporatefinanceinstitute.com/resources/knowledge
 - This value will be the gross of the costs associated with creating the goods sold or in providing services
 - Some companies have multiple revenue streams that add to a total revenue line.
 - It is important to note that revenue does not necessarily mean cash received. A portion of sales revenue may be paid in cash and a portion may be paid on credit, through such means as accounts receivables.
-- The very first line of the income statement is sales revenue. This is important for two reasons. First, it marks
+
+#### Operating Revenue
+- [Operating Revenue](https://www.investopedia.com/terms/o/operating-revenue.asp) is the revenue that a company generates from its primary business activities.
+- Distinguishing operating revenue from total revenue is important because it provides valuable information about the productivity and profitability of a company's primary business operations. 
+- Despite the fact that operating revenue is recorded separately on financial statements, some firms may attempt to mask decreases in operating revenue by combining it with non-operating revenue. Understanding and identifying the sources of revenue is helpful in assessing the health of a firm and its operations. 
+#### Non-Operating Revenue
+- Revenues realized through secondary, non-core business activities are often referred to as non-operating recurring revenues. These revenues are sourced from the earnings which are outside of the purchase and sale of goods and services and may include income from interest earned on business capital lying in the bank, rental income from business property, income from strategic partnerships like royalty payment receipts or income from an advertisement display placed on business property.
+#### Gains
+- Also called other income, gains indicate the net money made from other activities, like the sale of long-term assets. These include the net income realized from one-time non-business activities, like a company selling its old transportation van, unused land, or a subsidiary company.
 
 ### Cost of Goods Sold
-[Cost of Goods Sold](https://corporatefinanceinstitute.com/resources/knowledge/accounting/cost-of-goods-sold-cogs/) (COGS) (Direct Operating Cost) (Cost of Sales) measures the “direct cost” incurred in the production of any goods or services. It includes material cost, direct labor cost, and direct factory overheads, and is directly proportional to revenue.
+- [Cost of Goods Sold](https://corporatefinanceinstitute.com/resources/knowledge/accounting/cost-of-goods-sold-cogs/) (COGS) (Direct Operating Cost) (Cost of Sales) measures the “direct cost” incurred in the production of any goods or services. It includes material cost, direct labor cost, and direct factory overheads, and is directly proportional to revenue.
+- Cost of goods sold consists of all the costs associated with producing the goods or providing the services offered by the company. For goods, these costs may include the variable costs involved in manufacturing products, such as raw materials and labor.
+- They may also include fixed costs, such as factory overhead, storage costs, and depending on the relevant accounting policies, sometimes depreciation expense.
+- The basic purpose of finding COGS is to calculate the “true cost” of merchandise sold in the period. It doesn’t reflect the cost of goods that are purchased in the period and not being sold or just kept in inventory. It helps management and investors monitor the performance of the business.
 
 ### Gross Profit
+- The Gross Profit (GP) of a business is the accounting result obtained after deducting the cost of goods sold and sales returns/allowances from total sales revenue.  GP is located on the income statement (sometimes referred to as the statement of profit and loss) produced by a company and is used in determining a company’s gross margin.
+- The formula for calculating gross margin is: **Gross Margin** = Gross Profit / Total Revenue x 100
+
+
+
 
 - Inderect Operating Cost:
   - R&D (Research and Development)
@@ -125,15 +144,17 @@ The [Income Statement](https://corporatefinanceinstitute.com/resources/knowledge
 - Taxes
 - **Net Income (Net Earnings) (Net Profit)** = 
 
-
-
-### Revenues (Sales) (Turnover): Represents
-
 ### Links
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/income-statement/
+- https://www.investopedia.com/terms/i/incomestatement.asp
+- https://www.investopedia.com/terms/o/operating-revenue.asp
+- https://www.investopedia.com/terms/n/non-operating-income.asp
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/sales-revenue/
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/cost-of-goods-sold-cogs/
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/gross-profit/
+
+
+
 ## Statement of Cash Flows
 - Operating Cash Flow (Cash Flow from Operating Activities): includes items that could be found on the income statement such as:Revenue and Operating Expenses
   - Revenues
