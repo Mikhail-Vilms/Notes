@@ -25,6 +25,8 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Cost of Goods Sold](#cost-of-goods-sold)
   - [Gross Profit](#gross-profit)
   - [SG&A](#sga)
+    - [Selling Expenses](#selling-expenses)
+    - [General And Administrative Expenses](#general-and-administrative-expenses)
 - Statement of Cash Flows
 - Metrics for valuing a company
 
@@ -135,8 +137,20 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 
 ### SG&A
 - [Selling, General & Administrative (SG&A) Expense](https://corporatefinanceinstitute.com/resources/knowledge/accounting/what-is-sga/) includes all non-production expenses incurred by a company in any given period. It includes expenses such as rent, advertising, marketing, accounting, litigation, travel, meals, management salaries, bonuses, and more. On occasion, it may also include depreciation expense, depending on what it’s related to.
-- G&A expenses are the overhead costs of a business, many of which are fixed or semi-fixed. These costs don’t relate directly to selling products or services but rather to the general ongoing operation of the business.
+
+#### Selling Expenses
+- The selling component of this expense line is related to the direct and indirect costs of generating revenue (from selling products or services).
+- Direct expenses are those incurred at the exact point-of-sale for a product or service.  Examples of direct selling expenses include transaction costs and commissions paid on a sale.
+- Indirect selling expenses are incurred either before or after the sale is made, and examples include salaries, benefits, and wages for salespeople, travel, and accommodation expenses.
+
+#### General And Administrative Expenses
+- General & Administrative (G&A) Expense are the overhead costs of a business, many of which are fixed or semi-fixed. These costs don’t relate directly to selling products or services but rather to the general ongoing operation of the business.
 - The most common examples are rent, insurance, utilities, supplies, and expenses related to company management, such as salaries of executives, admin staff, and non-salespeople.
+
+### R&D
+### Distribution
+
+
 
 - Inderect Operating Cost:
   - R&D (Research and Development)
