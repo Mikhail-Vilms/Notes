@@ -167,6 +167,8 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 - *Earnings Before Tax* = Operating Income - Cost of Debt Financing
 - Taxes
 - **Net Income (Net Earnings) (Net Profit)** = 
+### Illustrations
+![image](https://user-images.githubusercontent.com/57194114/109405598-bb737400-7937-11eb-97be-c853c4d06249.png)
 
 ### Links
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/income-statement/
