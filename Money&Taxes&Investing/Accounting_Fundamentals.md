@@ -8,6 +8,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Current Assets](#current-assets)
   - [Non-current Assets](#non-current-assets)
     - [PP&E](#ppe)
+  - [Current Liabilities](#current-liabilities)
   - [Non-Current Liabilities](#non-current-liabilities)
     - [Credit Lines](#credit-lines)
     - [Long-term Lease](#long-term-lease)
@@ -55,12 +56,11 @@ Short-term economic resources that are expected to be converted into cash within
 #### PPE
 [Property, plant, and equipment (PP&E)](https://corporatefinanceinstitute.com/resources/knowledge/accounting/ppe-property-plant-equipment/) basically includes any of a company’s long-term, fixed assets. PP&E assets are tangible, identifiable, and expected to generate an economic return for the company for more than one year or one operating cycle (whichever is longer). The account can include machinery, equipment, vehicles, buildings, land, office equipment, and furnishings, among other things. Note that, of all these asset classes, land is one of the only assets that does not depreciate over time. If a company produces machinery (for sale), that machinery is not classified as property, plant, and equipment, but rather is classified as inventory. The same goes for real estate companies that hold buildings and land under their assets. Their office buildings and land are PP&E, but the houses or land they sell are inventory.
 
-
-
 ### Current Liabilities
 
 #### Accounts Payables
 Amounts owed by the company to the suppliers
+
 #### Accrued Expenses
 Expences that have not been incurred but not yet paid
 
