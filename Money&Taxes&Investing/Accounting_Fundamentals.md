@@ -158,20 +158,30 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 - EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization and is a metric used to evaluate a company’s operating performance. It can be seen as a proxy for cash flow from the entire company’s operations.
 - **EBITDA = Net Income + Interest + Taxes + Depreciation + Amortization**
 - **EBITDA = Operating Profit + Depreciation + Amortization**
+- This metric also excludes expenses associated with debt by adding back interest expense and taxes to earnings. Nonetheless, it is a more precise measure of corporate performance since it is able to show earnings before the influence of accounting and financial deductions.
+
+### Depreciation and Amortization
+- Depreciation and amortization (D&A) depend on the historical investments the company has made and not on the current operating performance of the business. Companies invest in long-term fixed assets (such as buildings or vehicles) that lose value due to wear and tear. The depreciation expense is based on a portion of the company’s tangible fixed assets deteriorating. Amortization expense is incurred if the asset is intangible. Intangible assets such as patents are amortized because they have a limited useful life (competitive protection) before expiration.
+
+#### Depreciation
+#### Amortization
+
+### EBIT
+Operating Income (or EBIT)
+
+### Interest Expense
+
+### Other Expenses
+
+### EBT
+EBT (Pre-Tax Income)
+
+### Income Taxes
+
+### Net Income
+- **This is the amount that flows into retained earnings on the balance sheet, after deductions for any dividends.**
 
 
-- Inderect Operating Cost:
-  - R&D (Research and Development)
-  - Selling Expenses
-  - SG&A (General and Administrative Expenses)
-  - Distribution
-- *Operating Income (Profit) (Earnings) (EBIT: "Earnings Before Interest and Taxes")* = Gross Profit - Inderecting Operating Cost
-- Cost of Debt Financing
-  - Interest 
-  - Bank Charges
-- *Earnings Before Tax* = Operating Income - Cost of Debt Financing
-- Taxes
-- **Net Income (Net Earnings) (Net Profit)** = 
 ### Illustrations
 ![image](https://user-images.githubusercontent.com/57194114/109405598-bb737400-7937-11eb-97be-c853c4d06249.png)
 
