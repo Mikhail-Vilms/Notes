@@ -27,6 +27,9 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [SG&A](#sga)
     - [Selling Expenses](#selling-expenses)
     - [General And Administrative Expenses](#general-and-administrative-expenses)
+  - EBITDA
+  - Depreciation & Amortization Expense
+  - Operating Income or EBIT
 - Statement of Cash Flows
 - Metrics for valuing a company
 
