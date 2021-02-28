@@ -4,7 +4,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
 
 ## Table of Contents:
 - [Summary](#summary)
-- [Balance Sheet](#balance-sheet)
+- **[Balance Sheet](#balance-sheet)**
   - [Current Assets](#current-assets)
   - [Non-current Assets](#non-current-assets)
     - [PP&E](#ppe)
@@ -17,7 +17,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Shareholder Equity](#shareholder-equity)
      - [Share Capital](#share-capital)
      - [Retained Earnings](#retained-earnings)
-- [Income Statement](#income-statement)
+- **[Income Statement](#income-statement)**
   - [Sales](#sales)
     - [Operating Revenue](#operating-revenue)
     - [Non-Operating Revenue](#non-operating-revenue)
@@ -27,11 +27,11 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [SG&A](#sga)
     - [Selling Expenses](#selling-expenses)
     - [General And Administrative Expenses](#general-and-administrative-expenses)
-  - EBITDA
+  - [EBITDA](#ebitda)
   - Depreciation & Amortization Expense
   - Operating Income or EBIT
-- Statement of Cash Flows
-- Metrics for valuing a company
+- **[Statement of Cash Flows](#statement-of-cash-flows)**
+- **[Metrics for valuing a company](#metrics-for-valuing-a-company)**
 
 ## Summary
 - Income Statement feeds into "Retained Earnings" account on the Balance Sheet
