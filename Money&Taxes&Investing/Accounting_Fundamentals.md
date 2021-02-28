@@ -24,6 +24,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
     - [Gains](#gains)
   - [Cost of Goods Sold](#cost-of-goods-sold)
   - [Gross Profit](#gross-profit)
+  - [SG&A](#sga)
 - Statement of Cash Flows
 - Metrics for valuing a company
 
@@ -101,7 +102,11 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/retained-earnings-guide/
 
 ## Income Statement
-The [Income Statement](https://corporatefinanceinstitute.com/resources/knowledge/accounting/income-statement/) (Statement of Operations) (Statement of Profit and Loss) (P&L) is one of a company’s core financial statements that shows their profit and loss over a period of time. The profit or loss is determined by taking all revenues and subtracting all expenses from both operating and non-operating activities.
+- The [Income Statement](https://corporatefinanceinstitute.com/resources/knowledge/accounting/income-statement/) (Statement of Operations) (Statement of Profit and Loss) (P&L) is one of a company’s core financial statements that shows their profit and loss over a period of time. The profit or loss is determined by taking all revenues and subtracting all expenses from both operating and non-operating activities.
+- Though the main purpose of an income statement is to convey details of profitability and business activities of the company to the stakeholders, it also provides detailed insights into the company’s internals for comparison across different businesses and sectors. Such statements are also prepared more frequently at the department- and segment-levels to gain deeper insights by the company management for checking the progress of various operations throughout the year, though such interim reports may remain internal to the company.
+- Based on income statements, management can make decisions like expanding to new geographies, pushing sales, increasing production capacity, increased utilization or outright sale of assets, or shutting down a department or product line. Competitors may also use them to gain insights about the success parameters of a company and focus areas as increasing R&D spends.
+- Creditors may find limited use of income statements as they are more concerned about a company’s future cash flows, instead of its past profitability. Research analysts use the income statement to compare year-on-year and quarter-on-quarter performance. One can infer whether a company's efforts in reducing the cost of sales helped it improve profits over time, or whether the management managed to keep a tab on operating expenses without compromising on profitability.
+- An income statement provides valuable insights into various aspects of a business. It includes a company’s operations, the efficiency of its management, the possible leaky areas that may be eroding profits, and whether the company is performing in line with industry peers.
 
 ### Sales
 - [Sales](https://corporatefinanceinstitute.com/resources/knowledge/accounting/sales-revenue/) (Revenue) (Turnover) is the company’s revenue from sales or services, displayed at the very top of the statement
@@ -128,8 +133,10 @@ The [Income Statement](https://corporatefinanceinstitute.com/resources/knowledge
 - The Gross Profit (GP) of a business is the accounting result obtained after deducting the cost of goods sold and sales returns/allowances from total sales revenue.  GP is located on the income statement (sometimes referred to as the statement of profit and loss) produced by a company and is used in determining a company’s gross margin.
 - The formula for calculating gross margin is: **Gross Margin** = Gross Profit / Total Revenue x 100
 
-
-
+### SG&A
+- [Selling, General & Administrative (SG&A) Expense](https://corporatefinanceinstitute.com/resources/knowledge/accounting/what-is-sga/) includes all non-production expenses incurred by a company in any given period. It includes expenses such as rent, advertising, marketing, accounting, litigation, travel, meals, management salaries, bonuses, and more. On occasion, it may also include depreciation expense, depending on what it’s related to.
+- G&A expenses are the overhead costs of a business, many of which are fixed or semi-fixed. These costs don’t relate directly to selling products or services but rather to the general ongoing operation of the business.
+- The most common examples are rent, insurance, utilities, supplies, and expenses related to company management, such as salaries of executives, admin staff, and non-salespeople.
 
 - Inderect Operating Cost:
   - R&D (Research and Development)
@@ -152,7 +159,9 @@ The [Income Statement](https://corporatefinanceinstitute.com/resources/knowledge
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/sales-revenue/
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/cost-of-goods-sold-cogs/
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/gross-profit/
-
+- https://corporatefinanceinstitute.com/resources/knowledge/accounting/what-is-sga/
+- https://www.investopedia.com/terms/s/sga.asp
+- https://www.investopedia.com/terms/e/earnings.asp
 
 
 ## Statement of Cash Flows
