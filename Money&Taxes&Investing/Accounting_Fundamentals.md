@@ -31,6 +31,9 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - Depreciation & Amortization Expense
   - Operating Income or EBIT
 - **[Statement of Cash Flows](#statement-of-cash-flows)**
+  - [Operating Activities](#operating-activities)
+  - [Investing Activities](#investing-activities)
+  - [Financing Activities](#financing-activities)
 - **[Metrics for valuing a company](#metrics-for-valuing-a-company)**
 
 ## Summary
@@ -199,6 +202,8 @@ EBT (Pre-Tax Income)
 - https://corporatefinanceinstitute.com/resources/knowledge/finance/what-is-ebitda/
 
 
+
+
 ## Statement of Cash Flows
 - Operating Cash Flow (Cash Flow from Operating Activities): includes items that could be found on the income statement such as:Revenue and Operating Expenses
   - Revenues
@@ -213,11 +218,14 @@ EBT (Pre-Tax Income)
   - Repaying Debt
   - Paying Dividends
 
-### Operating Cash Flow (Cash Flow from Operating Activities)
-### Operating Cash Flow (Cash Flow from Operating Activities)
-### Operating Cash Flow (Cash Flow from Operating Activities)
+### Operating Activities
+### Investing Activities
+### Financing Activities
 
-## Metrics for valuing a company / Ratios
+
+
+
+## Metrics for valuing a company
 
 ### EPS (Earnings Per Share)
 
