@@ -3,8 +3,8 @@
 Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinstitute.com/courses/accounting-fundamentals/)" course + some links
 
 ## Table of Contents:
-0. [Summary](#summary)
-1. [Balance Sheet](#balance-sheet)
+- [Summary](#summary)
+- [Balance Sheet](#balance-sheet)
   - [Current Assets](#current-assets)
   - [Non-current Assets](#non-current-assets)
     - [PP&E](#ppe)
