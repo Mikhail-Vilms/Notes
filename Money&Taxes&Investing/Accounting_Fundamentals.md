@@ -151,8 +151,13 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 - The most common examples are rent, insurance, utilities, supplies, and expenses related to company management, such as salaries of executives, admin staff, and non-salespeople.
 
 ### R&D
-### Distribution
+- Research and development (R&D) includes activities that companies undertake to innovate and introduce new products and services. It is often the first stage in the development process.
+- R&D is separate from most operational activities performed by a corporation. The research and/or development is typically not performed with the expectation of immediate profit. Instead, it is expected to contribute to the long-term profitability of a company. R&D may lead to patents, copyrights, and trademarks as discoveries are made and products created.
 
+### EBITDA
+- EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization and is a metric used to evaluate a company’s operating performance. It can be seen as a proxy for cash flow from the entire company’s operations.
+- **EBITDA = Net Income + Interest + Taxes + Depreciation + Amortization**
+- **EBITDA = Operating Profit + Depreciation + Amortization**
 
 
 - Inderect Operating Cost:
@@ -181,6 +186,7 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/what-is-sga/
 - https://www.investopedia.com/terms/s/sga.asp
 - https://www.investopedia.com/terms/e/earnings.asp
+- https://corporatefinanceinstitute.com/resources/knowledge/finance/what-is-ebitda/
 
 
 ## Statement of Cash Flows
