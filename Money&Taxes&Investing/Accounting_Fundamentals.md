@@ -9,6 +9,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Non-current Assets](#non-current-assets)
     - [PP&E](#ppe)
     - [Goodwill](#goodwill)
+    - [Intangible Asset](#intangible-asset)
   - [Current Liabilities](#current-liabilities)
   - [Non-Current Liabilities](#non-current-liabilities)
     - [Credit Lines](#credit-lines)
@@ -52,6 +53,7 @@ Short-term economic resources that are expected to be converted into cash within
 - **Prepaid Expense (Prepayments)**: Represent the value that has already been paid for, such as insurance, advertising contracts or rent.
 
 
+
 ### Non-current Assets
 (Long-term Assets)
 #### PPE
@@ -61,6 +63,13 @@ Short-term economic resources that are expected to be converted into cash within
 - Goodwill is an intangible asset that is associated with the purchase of one company by another. Specifically, goodwill is the portion of the purchase price that is higher than the sum of the net fair value of all of the assets purchased in the acquisition and the liabilities assumed in the process. The value of a company’s brand name, solid customer base, good customer relations, good employee relations, and proprietary technology represent some reasons why goodwill exists.
 - Goodwill is an intangible asset that accounts for the excess purchase price of another company.
 - The value of goodwill typically arises in an acquisition—when an acquirer purchases a target company. The amount the acquiring company pays for the target company over the target’s net assets at fair value usually accounts for the value of the target’s goodwill If the acquiring company pays less than the target’s book value, it gains negative goodwill, meaning that it purchased the company at a bargain in a distress sale.
+
+#### Intangible Assets
+- An intangible asset is an asset that is not physical in nature.
+- Examples: **** Goodwill, brand recognition and intellectual property, such as patents, trademarks, and copyrights**.
+- An intangible asset can be classified as either indefinite or definite. A company's brand name is considered an indefinite intangible asset because it stays with the company for as long as it continues operations. An example of a definite intangible asset would be a legal agreement to operate under another company's patent, with no plans of extending the agreement. The agreement thus has a limited life and is classified as a definite asset.
+- Businesses can create or acquire intangible assets. For example, a business may create a mailing list of clients or establish a patent. If a business creates an intangible asset, it can write off the expenses from the process, such as filing the patent application, hiring a lawyer, and paying other related costs.
+- In addition, all the expenses along the way of creating the intangible asset are expensed. However, intangible assets created by a company do not appear on the balance sheet and have no recorded book value. Because of this, when a company is purchased, often the purchase price is above the book value of assets on the balance sheet. The purchasing company records the premium paid as an intangible asset on its balance sheet.
 
 ### Current Liabilities
 
