@@ -44,7 +44,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
 
 ## Balance Sheet
 
-### [Current Assets](https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/)
+### `[Current Assets](https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/)`
 Short-term economic resources that are expected to be converted into cash within one year. Current assets include cash and cash equivalents, accounts receivable, inventory, and various prepaid expenses
 - **Cash And Cash Equivalents (CCE)**
 - **Accounts Receivable**: Refers to money that customers owe the company, perhaps including an allowance for doubtful accounts since a certain proportion of customers can be expected not to pay.
@@ -71,7 +71,7 @@ Short-term economic resources that are expected to be converted into cash within
 - Businesses can create or acquire intangible assets. For example, a business may create a mailing list of clients or establish a patent. If a business creates an intangible asset, it can write off the expenses from the process, such as filing the patent application, hiring a lawyer, and paying other related costs.
 - In addition, all the expenses along the way of creating the intangible asset are expensed. However, intangible assets created by a company do not appear on the balance sheet and have no recorded book value. Because of this, when a company is purchased, often the purchase price is above the book value of assets on the balance sheet. The purchasing company records the premium paid as an intangible asset on its balance sheet.
 
-### Current Liabilities
+### `Current Liabilities`
 
 #### Accounts Payables
 Amounts owed by the company to the suppliers
@@ -79,7 +79,7 @@ Amounts owed by the company to the suppliers
 #### Accrued Expenses
 Expences that have not been incurred but not yet paid
 
-### Non-Current Liabilities
+### `Non-Current Liabilities`
 A [Non-Current Liabilities](https://corporatefinanceinstitute.com/resources/knowledge/accounting/non-current-liability/) (Long-term Liabilities) (Long-term Debts)]  refers to the financial obligations in a company’s balance sheet that are not expected to be paid within one year. Non-current liabilities are due in the long term, compared to short-term liabilities, which are due within one year.
 
 #### Credit Lines
@@ -101,7 +101,7 @@ A note, also called a promissory note, is a special type of loan arrangement whe
 #### Deferred Tax Liabilities
 Deferred tax liabilities refer to the amount of taxes that a company has not paid in the current period, and that are required to be paid in the future. The liability is calculated by finding the difference between the accrued tax and the taxes payable. Therefore, the company will be required to pay more tax in the future due to a transaction that occurred in the current period for which tax has not been remitted.
 
-### Shareholder Equity
+### `Shareholder Equity`
 - For corporations, shareholder equity (SE), also referred to as shareholders' equity and stockholders' equity, is the corporation's owners' residual claim on assets after debts have been paid. Equity is equal to a firm's total assets minus its total liabilities.
 - Retained earnings is part of shareholder equity and is the percentage of net earnings that were not paid to shareholders as dividends. Retained earnings should not be confused with cash or other liquid assets. This is because years of retained earnings could be used for either expenses or any asset type to grow the business. Shareholders’ equity for a company that is a going concern is not the same as liquidation value. In liquidation, physical asset values have been reduced and other extraordinary conditions exist.
 
