@@ -8,6 +8,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Current Assets](#current-assets)
   - [Non-current Assets](#non-current-assets)
     - [PP&E](#ppe)
+    - [Goodwill](#goodwill)
   - [Current Liabilities](#current-liabilities)
   - [Non-Current Liabilities](#non-current-liabilities)
     - [Credit Lines](#credit-lines)
@@ -55,6 +56,11 @@ Short-term economic resources that are expected to be converted into cash within
 (Long-term Assets)
 #### PPE
 [Property, plant, and equipment (PP&E)](https://corporatefinanceinstitute.com/resources/knowledge/accounting/ppe-property-plant-equipment/) basically includes any of a company’s long-term, fixed assets. PP&E assets are tangible, identifiable, and expected to generate an economic return for the company for more than one year or one operating cycle (whichever is longer). The account can include machinery, equipment, vehicles, buildings, land, office equipment, and furnishings, among other things. Note that, of all these asset classes, land is one of the only assets that does not depreciate over time. If a company produces machinery (for sale), that machinery is not classified as property, plant, and equipment, but rather is classified as inventory. The same goes for real estate companies that hold buildings and land under their assets. Their office buildings and land are PP&E, but the houses or land they sell are inventory.
+
+#### Goodwill
+- Goodwill is an intangible asset that is associated with the purchase of one company by another. Specifically, goodwill is the portion of the purchase price that is higher than the sum of the net fair value of all of the assets purchased in the acquisition and the liabilities assumed in the process. The value of a company’s brand name, solid customer base, good customer relations, good employee relations, and proprietary technology represent some reasons why goodwill exists.
+- Goodwill is an intangible asset that accounts for the excess purchase price of another company.
+- The value of goodwill typically arises in an acquisition—when an acquirer purchases a target company. The amount the acquiring company pays for the target company over the target’s net assets at fair value usually accounts for the value of the target’s goodwill If the acquiring company pays less than the target’s book value, it gains negative goodwill, meaning that it purchased the company at a bargain in a distress sale.
 
 ### Current Liabilities
 
@@ -104,7 +110,7 @@ Deferred tax liabilities refer to the amount of taxes that a company has not pai
 - https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/
 - https://quickbooks.intuit.com/in/resources/cash-flow/cash-flow-statement-business/
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/balance-sheet/
-
+- https://www.investopedia.com/terms/g/goodwill.asp
 - https://www.investopedia.com/terms/s/shareholdersequity.asp
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/share-capital/
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/retained-earnings-guide/
