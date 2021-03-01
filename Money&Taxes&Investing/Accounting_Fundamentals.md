@@ -9,7 +9,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
   - [Non-current Assets](#non-current-assets)
     - [PP&E](#ppe)
     - [Goodwill](#goodwill)
-    - [Intangible Asset](#intangible-asset)
+    - [Intangible Assets](#intangible-assets)
   - [Current Liabilities](#current-liabilities)
   - [Non-Current Liabilities](#non-current-liabilities)
     - [Credit Lines](#credit-lines)
