@@ -242,8 +242,9 @@ EBT (Pre-Tax Income)
 ### Investing Activities
 ### Financing Activities
 
-
-
+### Links
+- https://corporatefinanceinstitute.com/resources/knowledge/accounting/cash-flow-statement
+- https://www.investopedia.com/terms/c/cashflowstatement.asp
 
 ## Metrics for valuing a company
 
