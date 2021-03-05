@@ -224,6 +224,10 @@ EBT (Pre-Tax Income)
 - A cash flow statement is a financial statement that provides aggregate data regarding all cash inflows a company receives from its ongoing operations and external investment sources. It also includes all cash outflows that pay for business activities and investments during a given period.
 - A company's financial statements offer investors and analysts a portrait of all the transactions that go through the business, where every transaction contributes to its success. The cash flow statement is believed to be the most intuitive of all the financial statements because it follows the cash made by the business in three main ways—through operations, investment, and financing. The sum of these three segments is called net cash flow.
 - These three different sections of the cash flow statement can help investors determine the value of a company's stock or the company as a whole.
+- One of the primary reasons cash inflows and outflows are observed is to compare the cash from operations to net income. This comparison helps company management, analysts, and investors to gauge how well a company is running its operations. The cash flow statement reflects the actual amount of money the company receives from its operations.\
+- The reason for the difference between cash and profit is because the income statement is prepared under the accrual basis of accounting, where it matches revenues and expenses for the accounting period, even though revenues may actually not have yet been collected and expenses may not have yet been paid. In contrast, the cash flow statement only recognizes cash that has actually been received or disbursed.
+
+
 
 - Operating Cash Flow (Cash Flow from Operating Activities): includes items that could be found on the income statement such as:Revenue and Operating Expenses
   - Revenues
