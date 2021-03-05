@@ -44,7 +44,7 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
 
 ## Balance Sheet
 
-### `[Current Assets](https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/)`
+### [`Current Assets`](https://quickbooks.intuit.com/in/resources/accountants-and-bookkeepers-accountants-and-bookkeepers/what-are-current-assets/)
 Short-term economic resources that are expected to be converted into cash within one year. Current assets include cash and cash equivalents, accounts receivable, inventory, and various prepaid expenses
 - **Cash And Cash Equivalents (CCE)**
 - **Accounts Receivable**: Refers to money that customers owe the company, perhaps including an allowance for doubtful accounts since a certain proportion of customers can be expected not to pay.
