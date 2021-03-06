@@ -36,6 +36,9 @@ Conspectus of "[Accounting Fundamentals](https://dashboard.corporatefinanceinsti
 - **[Statement of Cash Flows](#statement-of-cash-flows)**
   - [Operating Activities](#operating-activities)
   - [Investing Activities](#investing-activities)
+    - [CapEx](#capex)
+    - [Business Purchase and Sale](#business-purchase-and-sale)
+    - [Investment Purchase And Sale](#investment-purchase-and-sale)
   - [Financing Activities](#financing-activities)
 - **[Metrics for valuing a company](#metrics-for-valuing-a-company)**
 
@@ -242,13 +245,22 @@ EBT (Pre-Tax Income)
   - Repaying Debt
   - Paying Dividends
 
-### Operating Activities
-### Investing Activities
-### Financing Activities
+### `Operating Activities`
+
+### `Investing Activities`
+- This category on the statement of cash flows is referred to as Cash Flow from Investing Activities and reports changes in capital expenditures (CapEx) and long-term investments. CapExcan refer to the purchase of property, plant, or equipment assets. Long-term investments may include debt and equity instruments of other companies.
+- Another important item found here is acquisitions of other businesses. A key to remember is that a **change in the long-term assets in the balance sheet is reported in the investing activities of the cash flow statement**.
+
+#### CapEx
+- These [CapEx](https://corporatefinanceinstitute.com/resources/knowledge/accounting/capital-expenditures/) investments might mean purchases of new office equipment such as computers and printers for a growing number of employees, or the purchase of new land and a building to house business operations and logistics of the company. These items are necessary to keep the company running. These investments are a cash outflow, and therefore will have a negative impact when we calculate the net increase in cash from all activities.
+
+#### 
+### `Financing Activities`
 
 ### Links
 - https://corporatefinanceinstitute.com/resources/knowledge/accounting/cash-flow-statement
 - https://www.investopedia.com/terms/c/cashflowstatement.asp
+- https://corporatefinanceinstitute.com/resources/knowledge/accounting/capital-expenditures/
 
 ## Metrics for valuing a company
 
